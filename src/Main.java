@@ -25,7 +25,7 @@ public class Main {
 
             if(input.equals("x")) {
                 play = false;
-                System.out.println("Je hebt gekozen te stoppen.");
+                System.out.println("Je hebt gekozen om te stoppen.");
                 break;
             }
             else if(input.equals("v")) {
