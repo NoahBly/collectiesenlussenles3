@@ -6,6 +6,7 @@ import java.util.Map;
 public class translator {
 
 
+
     HashMap<Integer,String> numericAlpha = new HashMap<>();
 
 
